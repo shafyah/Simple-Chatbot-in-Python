@@ -16,7 +16,7 @@ It responds to specific predefined phrases and runs in a continuous loop until t
 
 ## Project Files
 
-- ![Chat code](chat.py): Contains the chatbot source code
+- [chat.py](./chat.py) Contains the chatbot source code
 
 ## Screenshot
 
